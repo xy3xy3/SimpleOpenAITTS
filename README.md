@@ -1,0 +1,2 @@
+# SimpleOpenAITTS
+调用openai的tts接口实现语音转文本下载
